@@ -3,6 +3,7 @@
     "description": "Silverstrap customization that uses the Cerulean theme from bootswatch.com",
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "bootstrap", "silverstrap", "cerulean"],
+    "target-dir": "themes/silverstrap_Page",
     "require": {
         "silverstripe/framework": "3.*",
         "entidi/silverstrap": "1.*"
