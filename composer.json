@@ -8,7 +8,7 @@
         "silverstripe/framework": "3.*",
         "entidi/silverstrap": "1.*"
     },
-    "license": "BSD",
+    "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Nicola Fontana",
