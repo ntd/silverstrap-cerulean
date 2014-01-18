@@ -4,10 +4,6 @@
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "bootstrap", "silverstrap", "cerulean"],
     "target-dir": "themes/silverstrap_Page",
-    "require": {
-        "silverstripe/framework": "3.*",
-        "entidi/silverstrap": "1.*"
-    },
     "license": "BSD-2-Clause",
     "authors": [
         {
@@ -17,6 +13,15 @@
             "role": "Developer"
         }
     ],
+    "require": {
+        "silverstripe/framework": "~3.0",
+        "entidi/silverstrap": "~1.0"
+    },
+    "extra": {
+        "screenshots": [
+            "http://silverstripe.entidi.com/assets/cerulean.jpeg"
+        ]
+    },
     "support": {
         "issues": "http://dev.entidi.com/p/silverstrap-cerulean/issues/",
         "source": "http://dev.entidi.com/p/silverstrap-cerulean/source/tree/master/"
