@@ -15,7 +15,7 @@
     ],
     "require": {
         "silverstripe/framework": "~3.0",
-        "entidi/silverstrap": "~1.0"
+        "entidi/silverstrap": "~2.0"
     },
     "extra": {
         "screenshots": [
