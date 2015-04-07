@@ -1,3 +1,3 @@
 <%-- Override the default bootstrap theme with the custom one --%>
-<% require CSS(//maxcdn.bootstrapcdn.com/bootswatch/3.3.0/cerulean/bootstrap.min.css) %>
-<% require javascript(//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js) %>
+<% require CSS("//cdn.jsdelivr.net/bootswatch/3/cerulean/bootstrap.min.css") %>
+<% require javascript("//cdn.jsdelivr.net/bootstrap/3/js/bootstrap.min.js") %>
