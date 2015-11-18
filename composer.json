@@ -3,7 +3,6 @@
     "description": "Silverstrap customization that uses the Cerulean theme from bootswatch.com",
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "bootstrap", "silverstrap", "cerulean"],
-    "target-dir": "themes/silverstrap_Page",
     "license": "BSD-2-Clause",
     "authors": [
         {
@@ -18,6 +17,7 @@
         "entidi/silverstrap": "~2.2"
     },
     "extra": {
+        "installer-name": "silverstrap_Object",
         "screenshots": [
             "http://silverstripe.entidi.com/assets/cerulean.png"
         ]
